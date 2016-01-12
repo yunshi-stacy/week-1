@@ -13,7 +13,7 @@
 
 #### Task 1: Open Seed Project
 
-The Seed Project is in the `/project` directory of the Week-1 repo
+The Seed Project is in the `/assignment` directory of the Week-1 repo
 
 #### Task 2: Change the marker location to your favorite place to eat food in Philadelphia
 
