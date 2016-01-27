@@ -12,7 +12,7 @@
 ### Project
 
 #### Task 1: Open Seed Project
-
+asa
 The Seed Project is in the `/assignment` directory of the Week 1 repo. Open the `index.html` file. Take a look at the text between the second set of `<script>` tags—this is the Javascript code we will be editing for this assignment.
 
 #### Task 2: Change the marker location to your favorite place to eat food in Philadelphia
@@ -23,7 +23,7 @@ In our class, we'll learn a number of ways to find coordinates for a location th
 
 #### Task 3: Add two more markers
 
-Add two additional markers to your map. These two markers should be two additional places where you like to eat food. 
+Add two additional markers to your map. These two markers should be two additional places where you like to eat food.
 
 To add an additional marker, copy the code you used to create the first marker onto the next line. Change the coordinates for your new markers. When you are finished, save your file and reload the browser. You should see three markers.
 
