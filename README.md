@@ -12,7 +12,7 @@
 ### Project
 
 #### Task 1: Open Seed Project
-asa
+
 The Seed Project is in the `/assignment` directory of the Week 1 repo. Open the `index.html` file. Take a look at the text between the second set of `<script>` tags—this is the Javascript code we will be editing for this assignment.
 
 #### Task 2: Change the marker location to your favorite place to eat food in Philadelphia
