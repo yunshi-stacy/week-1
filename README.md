@@ -7,7 +7,11 @@
 #### Code Academy
 
 * Sign up for [Code Academy](https://www.codecademy.com/)
-* Complete Units 1–6 in the [Javascript coursework](https://www.codecademy.com/learn/javascript)
+* Complete Units in the Course Academy [Javascript coursework](https://www.codecademy.com/learn/javascript)
+  - Introduction to JavaScript (section 1, all)
+  - Functions                  (section 2, all)
+  - 'For' Loops in JavaScript  (section 3, all)
+  - Control flow; if/else      (section 5.1 only)
 
 ### Project
 
